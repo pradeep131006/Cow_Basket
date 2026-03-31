@@ -9,7 +9,7 @@ import Footer from "@/components/Footer";
 import VolunteerSection from "@/components/VolunteerSection";
 import TestimonialsSection from "@/components/TestimonialsSection";
 
-
+// hi
 const Index = () => {
   return (
     <div className="min-h-screen bg-background">
