@@ -8,7 +8,7 @@ import dhoop from "@/assets/dhoop.jpg";
 import vermicompost from "@/assets/vermicompost.jpg";
 import ghee from "@/assets/ghee.jpg";
 import dungcake from "@/assets/Dung-cake.jpg";
-import dungpot from "@/assets/dung-pot.jpg";
+import dungpot from "@/assets/Dung-Pot.jpg";
 
 const PRODUCTS = [
   {
